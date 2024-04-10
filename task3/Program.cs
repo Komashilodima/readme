@@ -1,5 +1,5 @@
-﻿int a = 10;
-int b = 8;
+﻿int a = 100;
+int b = 80;
 
 if (a > b)
 {
@@ -7,5 +7,5 @@ if (a > b)
 }
 else
 {
-   Console.WriteLine(b);
-}    
+    Console.WriteLine(b);
+}
